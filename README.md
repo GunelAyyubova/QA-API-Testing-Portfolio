@@ -20,3 +20,11 @@ Bu layihədə mən API endpoint-lərinin təhlükəsizliyini və funksionallığ
 
 ## 📁 Nəticə Görüntüləri
 Layihə daxilindəki `images/` qovluğunda test zamanı aldığım real cavabların (Response Body) ekran görüntüləri yerləşdirilib.
+
+## 📸 Test Nəticələri və Sübutlar
+
+### SQL Fraud Detection Nəticəsi
+![SQL Test](images/9b5bcc13-9f3c-4492-aad6-6e217a4044cd.jpeg)
+
+### API Security (401 Unauthorized)
+![Postman Test](images/5cab94c0-b843-4767-87c6-260881779e62.jpeg)
