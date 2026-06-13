@@ -31,3 +31,5 @@ Layihə daxilindəki `images/` qovluğunda test zamanı aldığım real cavablar
 
 ### Postman API Test (Details)
 ![Postman Test 2](images/f1370d0f-d3df-4249-a973-525bb5c7fd37)
+### SQL Fraud Detection
+![SQL Test](images/6ab6d46f-1554-45c0-9454-5958fd178481)
