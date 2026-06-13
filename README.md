@@ -24,10 +24,10 @@ Layihə daxilindəki `images/` qovluğunda test zamanı aldığım real cavablar
 ## 📸 Test Nəticələri və Sübutlar
 
 ### SQL Fraud Detection
-![SQL Test](image.png)
+![SQL Test](6ab6d46f-1554-45c0-9454-5958fd178481)
 
 ### Postman API Test (401 Unauthorized)
-![Postman Test 1](image-1.png)
+![Postman Test 1](4f9ded12-a6c8-4361-923e-6f132a08c5af)
 
 ### Postman API Test (Details)
-![Postman Test 2](image-2.png)
+![Postman Test 2](f1370d0f-d3df-4249-a973-525bb5c7fd37)
